@@ -101,6 +101,16 @@
 
 ---
 
+### fabrikonengineering.com
+
+> Made a full-stack marketing and CAD upload protal inluding materials, specs, etc.
+>
+> - Implemented direct-to-cloud uploads via presigned Cloudflare R2 URLs so large CAD files (up to 1 GB) bypass the web server, with server-side type and size validation
+> - Designed a responsive UI with custom typography and a reusable component system optimized for desktop and mobile
+> - Deployed to shared hosting (cPanel/Phusion Passenger) with custom Node server config and SMTP email notifications on new submissions
+
+---
+
 ## Professional Experience & Leadership
 
 ### **Product Development Manager** · Fabrikon Engineering · *Nov 2025 – Present*
