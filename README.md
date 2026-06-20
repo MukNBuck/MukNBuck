@@ -133,7 +133,7 @@
 ## Education
 
 **B.S. in Computer Engineering** · University of South Florida · Tampa, FL  
-Second-Year Student · **GPA: 3.90**
+Third-Year Student · **GPA: 3.92**
 
 Relevant Coursework: Discrete Structures · Computer Organization · Program Design · Data Structures · Computer Logic and Design
 
