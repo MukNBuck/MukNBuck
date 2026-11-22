@@ -113,7 +113,7 @@
 
 ## Professional Experience & Leadership
 
-### **Product Developer** · Fabrikon Engineering · *Nov 2025 – Present*
+### **Technical Product Lead** · Fabrikon Engineering · *Nov 2025 – Present*
 
 > Driving product innovation at the intersection of **generative AI** and **additive manufacturing**.
 >
